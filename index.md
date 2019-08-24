@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 王某
 
-You can use the [editor on GitHub](https://github.com/BossZihang/bosszhipin_fourth.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+性别：男
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+专业 ：葡萄酒管理硕士
 
-### Markdown
+学历：硕士
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+留学国家：法国
 
-```markdown
-Syntax highlighted code block
+求职意向：进出口
 
-# Header 1
-## Header 2
-### Header 3
+毕业学校：第戎高尚
 
-- Bulleted
-- List
+### 请问你已经就业了嘛？
+已经有一家公司招聘了我，我十月份就职
 
-1. Numbered
-2. List
+### 请问你将从事什么行业？
+翻译，不过本来我想做进出口管理的。
 
-**Bold** and _Italic_ and `Code` text
+### 你找到的工作是在海外还是国内的？
+公司是国内的公司，但是会有机会出差国外
 
-[Link](url) and ![Image](src)
-```
+### 你觉得国内就业和国外就业各有什么好处和坏处呢
+国内工作机会多，法国太少了，工资其实也不高，算上生活费的话
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 那你觉得留学生在回国就业有什么优势和劣势？
+文科生就业的话，大家都会比较认同你这个留学经历，不过当然留在国内的话参加的各种社团活动也能成为简历很重要的一页。
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BossZihang/bosszhipin_fourth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 你觉得留学生和国内学生，在相同能力的条件下，哪一种学生更受企业青睐？
+留学生啊。留学经历在国外也是挺加分的。
 
-### Support or Contact
+### 现在国内的经济形势不错也有不少的留学生回国工作，你有什么给留学生建议？
+尽量能找可以对口专业的工作或者跨国公司，在跨国公司，留学生比较容易被录用，发展机会也更大。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 您对回国创业怎么看？
+没有考虑过，不过如果要创业可能我回去非洲
+
+
+### 您觉得有必要为留学生开辟一条渠道来帮助他们就业吗？如果需要，关键点在哪里？
+很多时候我投许多简历到一些微信群啊，一些招聘网站都没有什么回声甚至没有回复，我觉得时机很多招聘信息都是对外界公开但是招人的时候都是靠关系招的。希望如果有渠道的话，那些渠道不要被内推完。
+
+
